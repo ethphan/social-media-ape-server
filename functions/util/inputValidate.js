@@ -1,3 +1,3 @@
 export const inputValidate = () => {
-  return <div></div>;
+  return <div>Hello world</div>;
 };
